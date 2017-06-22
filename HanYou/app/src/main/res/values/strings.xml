@@ -1,0 +1,63 @@
+<resources>
+    <!--LoginActivity-->
+    <string name="app_name">汗友</string>
+    <string name="user_edit_text">用户名/Email/手机号</string>
+    <string name="password_edit_text">密码</string>
+    <string name="login_button">用户登录</string>
+    <string name="register_button">新用户注册</string>
+    <string name="forget_button">忘记密码？</string>
+    <string name="other_login_text">其他账号登录</string>
+
+    <!--HomeActivity-->
+    <string name="home_button_text">首页</string>
+    <string name="live_button_text">直播</string>
+    <string name="invite_button_text">约</string>
+    <string name="discover_button_text">发现</string>
+    <string name="me_button_text">我的</string>
+
+    <!--HomeFragment-->
+    <string name="sign_button_text">签到</string>
+    <string name="search_text">搜索</string>
+    <string name="event_info_top_text">我是活动我是活动我是活动我是活动我是活动我是活动我是活动我是活动我是活动我是活动我是活动我是活动介绍。</string>
+    <string name="event_leader_top_text">--阿尔伯特.爱因斯坦</string>
+    <string name="event_list_text">往期活动</string>
+    <string name="event_title_text">标题</string>
+    <string name="event_info_text">如果你无法简洁的表达你的想法,那只说明你还不够了解它</string>
+
+    <!--LiveFragment-->
+    <string name="personal_show_button_text">个人秀</string>
+    <string name="match_live_button_text">约赛直播</string>
+    <string name="hot_live_button_text">热门直播</string>
+    <string name="in_live_button_text">直播中</string>
+    <string name="live_user_name_text">彭晨晨Kelly</string>
+    <string name="live_user_num_text">8121人</string>
+    <string name="live_user_location_text">北京市</string>
+    <string name="live_user_tag_text">我瘦了么#进来的都是小可爱#</string>
+
+    <!--InviteFragment-->
+    <string name="nearby_button_text">附近</string>
+    <string name="my_invite_button_text">我要约</string>
+    <string name="my_meet_button_text">我要赴约</string>
+    <string name="my_match_button_text">我要比赛</string>
+
+    <!--DiscoverFragment-->
+    <string name="discover_hot_button_text">热门</string>
+    <string name="discover_list_button_text">排行榜</string>
+    <string name="discover_dynamic_button_text">动态</string>
+    <string name="discover_column_button_text">专栏</string>
+    <string name="discover_ask_button_text">问答</string>
+
+    <!--UserFragment-->
+    <string name="user_name_text">Jerry Shaw  男</string>
+    <string name="user_tag_text">人生苦短,我用Python！</string>
+    <string name="user_dynamic_button_text">动态</string>
+    <string name="user_achievement_button_text">我的成就</string>
+    <string name="user_hobby_button_text">我的爱好</string>
+    <string name="user_live_button_text">热血直播</string>
+    <string name="user_health_button_text">我的健康数据</string>
+    <string name="user_mylive_button_text">我要直播</string>
+    <string name="user_signout_button_text">退出登录</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
